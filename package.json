@@ -1,0 +1,20 @@
+{
+  "name": "qiankun-vue",
+  "version": "1.0.0",
+  "author": "flitrue",
+  "private": true,
+  "description": "基于qiankun做的微前端项目",
+  "scripts": {
+    "build": "bash ./build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flitrue/qiankun-project.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flitrue/qiankun-project/issues"
+  },
+  "homepage": "https://github.com/flitrue/qiankun-project#readme"
+}

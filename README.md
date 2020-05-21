@@ -1,5 +1,5 @@
 # qiankun-project
-基于(qiankun)[https://github.com/umijs/qiankun]做的微前端项目
+基于[qiankun](https://github.com/umijs/qiankun)做的微前端项目
 
 
 ## 介绍
